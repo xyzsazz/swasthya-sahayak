@@ -1,0 +1,5 @@
+pandas
+jsonschema
+nbformat
+pytest
+matplotlib
